@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rajavarman%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Building%20Real-World%20Projects%20One%20Commit%20at%20a%20Time&descAlignY=62&descSize=16"/>
 
 <div align="center">
@@ -21,7 +19,7 @@ class Rajavarman:
         self.location    = "Udumalpet, Tamil Nadu, India"
         self.degree      = "B.Sc. Computer Science (2023–2026)"
         self.email       = "rajavarmang1312@gmail.com"
-        self.linkedin    = "linkedin.com/in/rajavarman-g"
+        self.linkedin    = "linkedin.com/in/Rajavarmang"
 
         self.stack = [
             "Python", "Flask",
@@ -79,11 +77,11 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/rajavarman-g">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajavarman-g&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Rajavarmang">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajavarmang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/rajavarman-g">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajavarman-g&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Rajavarmang">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajavarmang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -94,7 +92,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rajavarman-g&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rajavarmang&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -104,7 +102,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Rajavarman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajavarman-g&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/rajavarman-g)
+[![Rajavarman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajavarmang&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Rajavarmang)
 
 </div>
 
@@ -114,7 +112,7 @@ print(me.motto())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rajavarman-g&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/rajavarman-g)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rajavarmang&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Rajavarmang)
 
 </div>
 
@@ -142,9 +140,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**PromptLab Workbench**](https://github.com/rajavarman-g) | `Python` `Flask` `HTML` `CSS` `JavaScript` `LLM APIs` | AI-powered web app that analyzes and optimizes user prompts; scoring framework for role, context & format; integrates LLM APIs for intelligent text generation |
-| [**Portfolio Website**](https://github.com/rajavarman-g) | `HTML` `CSS` `JavaScript` | Interactive personal portfolio with responsive design for mobile & desktop |
-| [**Smart Attendance App**](https://github.com/rajavarman-g) | `Python` `OpenCV` | Face-recognition-based attendance system built in a 3-member team for Inter-College competition TECH COLLEGE 2.0 |
+| [**PromptLab Workbench**](https://github.com/Rajavarmang) | `Python` `Flask` `HTML` `CSS` `JavaScript` `LLM APIs` | AI-powered web app that analyzes and optimizes user prompts; scoring framework for role, context & format; integrates LLM APIs for intelligent text generation |
+| [**Portfolio Website**](https://github.com/Rajavarmang) | `HTML` `CSS` `JavaScript` | Interactive personal portfolio with responsive design for mobile & desktop |
+| [**Smart Attendance App**](https://github.com/Rajavarmang) | `Python` `OpenCV` | Face-recognition-based attendance system built in a 3-member team for Inter-College competition TECH COLLEGE 2.0 |
 
 </div>
 
@@ -193,8 +191,8 @@ print(me.motto())
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajavarman-g&color=70a5fd&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajavarman-g)
+![Profile Views](https://komarev.com/ghpvc/?username=Rajavarmang&color=70a5fd&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rajavarmang)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajavarmang1312@gmail.com)
 
 *"Build. Break. Learn. Repeat."* 🚀
