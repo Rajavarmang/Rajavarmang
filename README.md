@@ -119,13 +119,11 @@ print(me.motto())
 
 ---
 
-## 🏙️ Contribution Skyline
+## 🐍 Contribution Graph
 
 <div align="center">
 
-[![Skyline](https://skyline.github.com/Rajavarmang/2025.svg)](https://skyline.github.com/Rajavarmang/2025)
-
-> 🌆 My GitHub contributions as a 3D city skyline — every commit builds the city!
+![snake animation](https://raw.githubusercontent.com/Rajavarmang/Rajavarmang/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
