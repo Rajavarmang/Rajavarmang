@@ -4,6 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Rajavarman+%F0%9F%91%8B;Full-Stack+Developer+%7C+Python+%2B+Flask+%2B+JS;AI-Powered+App+Builder+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rajavarmang-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajavarmang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajavarman%20G-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rajavarmang)
+[![Gmail](https://img.shields.io/badge/Gmail-rajavarmang1312-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajavarmang1312@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rajavarmang&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS)](https://github.com/Rajavarmang)
+
 </div>
 
 ---
@@ -188,9 +195,6 @@ print(me.motto())
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rajavarmang&color=70a5fd&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rajavarmang)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajavarmang1312@gmail.com)
 
 *"Build. Break. Learn. Repeat."* 🚀
 
